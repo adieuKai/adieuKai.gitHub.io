@@ -5,11 +5,55 @@
     
     <entry>
       <title>测试文章</title>
+      <link href="/2023/02/19/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/02/19/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="这是我第三篇文章"><a href="#这是我第三篇文章" class="headerlink" title="这是我第三篇文章"></a>这是我第三篇文章</h2><h2 id="个人博客仍在美化中…"><a href="#个人博客仍在美化中…" class="headerlink" title="个人博客仍在美化中…"></a>个人博客仍在美化中…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> HiakSの算法学习 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试文章</title>
+      <link href="/2023/02/19/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/02/19/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="这是我第二篇文章"><a href="#这是我第二篇文章" class="headerlink" title="这是我第二篇文章"></a>这是我第二篇文章</h2><h2 id="个人博客仍在美化中…"><a href="#个人博客仍在美化中…" class="headerlink" title="个人博客仍在美化中…"></a>个人博客仍在美化中…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> HiakSのC++基础学习 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试文章</title>
       <link href="/2023/02/18/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2023/02/18/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
         <content type="html"><![CDATA[<h2 id="这是我第一篇文章"><a href="#这是我第一篇文章" class="headerlink" title="这是我第一篇文章"></a>这是我第一篇文章</h2><h2 id="个人博客仍在美化中…"><a href="#个人博客仍在美化中…" class="headerlink" title="个人博客仍在美化中…"></a>个人博客仍在美化中…</h2>]]></content>
       
+      
+      <categories>
+          
+          <category> HiakSの基础学习 </category>
+          
+      </categories>
       
       
     </entry>
